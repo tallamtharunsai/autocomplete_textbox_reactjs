@@ -1,3 +1,5 @@
+Firstly, you have to install the nodejs for node_modules to run this react project and then you have can copy the other file and paste into your create app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
